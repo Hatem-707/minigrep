@@ -1,0 +1,12 @@
+Rust:
+safe, fast, productive.
+Pick three.
+
+Duct tape works anywhere.
+Duct is silver.
+Trust the process.
+Not all that glitters is gold.
+
+CASE sensitivity test:
+The quick brown FOX.
+the quick brown fox.
