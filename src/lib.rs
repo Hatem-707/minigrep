@@ -29,7 +29,7 @@ pub mod minigrep {
             };
             let mut line = String::new();
             loop {
-                if self.buf_reader.read_line(&mut line).unwrap() == 0 {
+                if self.buf_reader.read_line(&mut line)? == 0 {
                     break;
                 }
                 if self.ignore_case {
